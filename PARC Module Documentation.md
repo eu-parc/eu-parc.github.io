@@ -1,7 +1,5 @@
 # How to Use Git to Interact with a PARC Module
 
-[Worksheet](https://www.notion.so/Worksheet-7a3e9f9f242f499295353e00a9d4935f?pvs=21)
-
 This page serves as documentation for getting set up and getting started with several basic operations interacting with PARC semantic modules, implemented in ODK, using git and GitHub. It also serves as a worksheet for walking you through the same in the context of a live parc-test-module, which you can follow through step by step to become familiar with some of the ODK basics. 
 
 # Setting Up As A New Contributor
